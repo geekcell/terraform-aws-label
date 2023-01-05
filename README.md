@@ -49,10 +49,10 @@ We use it in our projects for names like e.g.
 
 **geekcell-auth-pro-backend**
 
-geekcell = namespace, e.g. your product
-auth = environment, e.g. your service
-pro = stage, e.g.: pro or dev
-backend = subcomponent of your product.
+1. geekcell = namespace, e.g. your product
+2. auth = environment, e.g. your service
+3. pro = stage, e.g.: pro or dev
+4. backend = subcomponent of your product.
 
 In addition, tags are created for you, which you can attach to your
 resources.
