@@ -33,10 +33,23 @@
 [![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/geekcell/terraform-aws-label/hipaa)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=geekcell%2Fterraform-aws-label&benchmark=HIPAA)
 [![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/geekcell/terraform-aws-label/fedramp_moderate)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=geekcell%2Fterraform-aws-label&benchmark=FEDRAMP+%28MODERATE%29)
 
-# Terraform AWS Label Module
+# Terraform AWS Label
 
-This is a terraform modum to generate consistent naming and tags for your
-resources.
+This Terraform module provides a preconfigured solution for implementing
+consistent tagging and naming conventions for all of your AWS resources.
+Having well-defined and consistent tags and names for your resources can
+help you better organize, manage, and track your infrastructure. This module
+makes it easy to apply your desired naming and tagging conventions to all
+of your resources in a uniform and automated manner.
+
+Our team has extensive experience working with AWS resources and has
+optimized this module to provide the best possible experience for users.
+The module encapsulates all necessary configurations, making it easy to use
+and integrate into your existing AWS environment. Whether you are just
+getting started with AWS resource management or looking for a more efficient
+way to implement naming and tagging conventions, this Terraform module
+provides a preconfigured solution for better organization and tracking
+of your resources.
 
 It contains 4 variables.
 
